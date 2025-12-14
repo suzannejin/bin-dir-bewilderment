@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "See you next time, $1"
